@@ -1,4 +1,4 @@
-### Welcome to my Githubx
+### Welcome to my Github
 
 Just a developer with security enthusiasm.
 
